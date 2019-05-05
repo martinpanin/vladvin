@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAP,0CAAO",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_colors.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
